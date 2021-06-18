@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Ahttps://github.com/TemitopeAsama/Social-Proof-Section/tree/master](https://your-solution-url.com)
+- Solution URL: [https://github.com/TemitopeAsama/Social-Proof-Section/tree/master](https://your-solution-url.com)
 - Live Site URL: [https://temitopeasama.github.io/Social-Proof-Section/](https://your-live-site-url.com)
 
 
