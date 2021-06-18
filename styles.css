@@ -8,10 +8,12 @@ body {
     font-family: 'Spartan';
     display: flex;
     justify-content: center;
+    position: relative;
 }
 
 .container {
     position: relative;
+    z-index: 1;
     margin: 0 auto;
     padding: 5em 2em;
     background-color: hsl(0, 0%, 100%);
@@ -144,6 +146,7 @@ article > p {
     #desk-bg-top{
         display: unset;
         position: absolute;
+        z-index: -1;
         top: 0;
         left: 0;
     }
@@ -151,6 +154,7 @@ article > p {
     #desk-bg-bottom {
         display: unset;
         position: absolute;
+        z-index: -1;
         bottom: 0;
         right: 0;
     }
