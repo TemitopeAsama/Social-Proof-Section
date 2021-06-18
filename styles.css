@@ -113,12 +113,14 @@ article > p {
 }
 
 .name {
+    font-size: .9rem;
     font-weight: 700;
     color: hsl(0, 0%, 100%);
 }
 
 .status {
     color: hsl(333, 80%, 67%);
+    font-weight: 400;
 }
 
 @media screen and (max-width:369px) {
